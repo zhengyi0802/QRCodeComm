@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OttHome</string>
+
+    <string name="label_login">Login by QRCode</string>
+    <string name="label_serialno">Serial Number : </string>
+    <string name="label_usage">Login by using Phone scan QRCode image as below :</string>
+
+    <string name="url_prefix">http://member.mundi-tv.tk/ottqrcode.php</string>
+    <string name="param_serialno">serialno</string>
+    <string name="param_uuid">uuid</string>
+
+</resources>

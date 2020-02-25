@@ -1,0 +1,3 @@
+include ':OttHome', ':QRScanner', ':QRScanner2', ':QRScanner3', 'barcodescaner-core', 'barcodescaner-zxing'
+rootProject.name='QRCode'
+include ':scanner4'
